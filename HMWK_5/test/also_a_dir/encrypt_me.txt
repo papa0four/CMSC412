@@ -1,0 +1,4 @@
+encrypt_me.txt is a file meant to be encrypted using 
+a function the XOR's each character of a file against
+the password provided by the user which can also be used
+for decryption.

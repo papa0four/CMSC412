@@ -1,0 +1,5 @@
+hello
+this is a test file
+it lives within the test directory
+
+I am giving it contents to be able to display hex-view
